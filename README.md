@@ -11,5 +11,3 @@ It contains the solution of the question about the hashing and the Hyperloglog d
 It contains the solution of the question regarding the Clustering algorithm Kmeans using the dataset gathering reviews of [fine foods from Amazon](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 3. [Point_3.ipynb](https://nbviewer.jupyter.org/github/StefaniaSferragatta/ADM_HW4/blob/main/Point_3.ipynb)\
 It contains the pseudo code and its explanation for the solution of the algorithmic question.
-
-
